@@ -1,7 +1,4 @@
 import React from 'react';
-import 'bootstrap/dist/css/bootstrap.css';
-window.jQuery = window.$ = require('jquery');
-require('bootstrap')
 
 const Hero = () => (
     <div id="myCarousel" className="carousel slide" data-ride="carousel">
