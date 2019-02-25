@@ -1,6 +1,7 @@
 import React from "react";
 import Header from '../components/Header';
 import Hero from '../components/Hero';
+import About from '../components/About';
 import Interest from '../components/Interest';
 import Contact from '../components/Contact';
 import Footer from '../components/Footer';
@@ -17,6 +18,7 @@ export default () => (
     <>
     <Header></Header>
     <Hero></Hero>
+    <About></About>
     <div className="row my-5">
     <h3 className="text-center">Interests</h3>
         <div className="container">

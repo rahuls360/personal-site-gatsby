@@ -24,3 +24,9 @@ ul.social i{
 footer ul{
     list-style: none;
 }
+
+footer {
+    background: black;
+    color: white;
+    padding: 3em;
+}
