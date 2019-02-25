@@ -1,3 +1,7 @@
+## Live Link
+
+https://dazzling-mahavira-73cd7b.netlify.com/
+
 ## Personal Website - Using Gatsby
 
 Build a personal website, to understand how to use Gatsby and practice its main features.
@@ -17,6 +21,7 @@ Build a personal website, to understand how to use Gatsby and practice its main 
 2.  Importing Bootstrap, Font Awesome into React
 3.  Routing in Gatsby
 4.  404 page
+5.  Deploy using Netlify
 
 ## Pending Features (for further practice)
 
