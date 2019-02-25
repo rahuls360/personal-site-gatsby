@@ -9,10 +9,11 @@ import Footer from '../components/Footer';
 
 import 'bootstrap/dist/css/bootstrap.css';
 import '../style.css';
-window.jQuery = window.$ = require('jquery');
-require('bootstrap');
 
-
+if (typeof window !== 'undefined') {
+    window.jQuery = window.$ = require('jquery');
+    require('bootstrap');
+}
 
 export default () => (
     <>
