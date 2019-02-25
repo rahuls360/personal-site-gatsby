@@ -1,27 +1,28 @@
-ul,ol{
+ul,
+ol {
     margin-top: 0;
     margin-bottom: 0;
 }
 
-.my-5{
+.my-5 {
     margin: 5em 0;
 }
 
-ul.social{
+ul.social {
     display: flex;
     justify-content: space-evenly;
 }
 
-ul.social a{
+ul.social a {
     text-decoration: none;
     color: orange;
 }
 
-ul.social i{
+ul.social i {
     font-size: 150%;
 }
 
-footer ul{
+footer ul {
     list-style: none;
 }
 
@@ -29,4 +30,8 @@ footer {
     background: black;
     color: white;
     padding: 3em;
+}
+
+.item img {
+    width: 100%;
 }
