@@ -1,6 +1,6 @@
 ## Live Link
 
-https://dazzling-mahavira-73cd7b.netlify.com/
+https://personal-site-rahuls360.netlify.com
 
 ## Personal Website - Using Gatsby
 
