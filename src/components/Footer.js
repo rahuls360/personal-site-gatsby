@@ -20,10 +20,10 @@ const Footer = () => (
                 <div className="col-md-4">
                     <h4 className="text-center">Connect with me</h4>
                     <ul className="social">
-                        <li><a href="https://twitter.com/rahuls360/"><i className="fa fa-twitter"></i></a></li>
-                        <li><a href="https://www.youtube.com/channel/UCVsDcEX6kB9ZNAWdlxrnn0"><i className="fa fa-youtube"></i></a></li>
-                        <li><a href="https://www.linkedin.com/in/rahuls360/"><i className="fa fa-linkedin"></i></a></li>
-                        <li><a href="https://github.com/rahuls360"><i className="fa fa-github"></i></a></li>
+                        <li><a target="_blank" rel="noopener noreferrer" href="https://twitter.com/rahuls360/"><i className="fa fa-twitter"></i></a></li>
+                        <li><a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCVsDcEX6kB9ZNAWdlxrnn0"><i className="fa fa-youtube"></i></a></li>
+                        <li><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/rahuls360/"><i className="fa fa-linkedin"></i></a></li>
+                        <li><a target="_blank" rel="noopener noreferrer" href="https://github.com/rahuls360"><i className="fa fa-github"></i></a></li>
                     </ul>
                 </div>
             </div>
