@@ -3,6 +3,8 @@ import Header from '../components/Header';
 import Hero from '../components/Hero';
 import Interest from '../components/Interest';
 import Contact from '../components/Contact';
+import Footer from '../components/Footer';
+
 
 import 'bootstrap/dist/css/bootstrap.css';
 import '../style.css';
@@ -24,5 +26,6 @@ export default () => (
         </div>
     </div>
     <Contact />
+    <Footer />
     </>
 );

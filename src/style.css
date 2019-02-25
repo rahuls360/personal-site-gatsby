@@ -6,3 +6,21 @@ ul,ol{
 .my-5{
     margin: 5em 0;
 }
+
+ul.social{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+ul.social a{
+    text-decoration: none;
+    color: orange;
+}
+
+ul.social i{
+    font-size: 150%;
+}
+
+footer ul{
+    list-style: none;
+}
